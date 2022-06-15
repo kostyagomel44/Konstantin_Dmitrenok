@@ -15,3 +15,14 @@
 <a href="mailto:kostyagomel44@yandex.ru" target="blank"><img align="center" src="https://darkstore.su/media/products/2299260758598811de7c6fbf6794d3fb.jpg" alt="kostyagomel44@yandex.ru" height="30" width="40" /></a>
 <a href="https://hh.ru/resume/fe9294b1ff06de7d190039ed1f47417a636137" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/YpAV7Q-ZJhI5tzFk_wEX-7-x2BydtnCtFTVUrmq0zAO6jLCLA4nNcfem3p_Pyowg9w" alt="dmitrenok" height="30" width="40" /></a>
 </p>
+
+### Stack:
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
+[![PyTorch](https://img.shields.io/badge/pytorch-%23D00000.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+
