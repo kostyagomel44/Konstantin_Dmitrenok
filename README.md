@@ -7,7 +7,7 @@
  
 **You can see my projects in pinned repositories**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
   
 
